@@ -10,6 +10,13 @@ JavaScript is heavily object-oriented. It follows a prototype-based model (as op
 
 Object refers to a data structure containing data and instructions for working with the data. Objects sometimes refer to real-world things, for example a car or map object in a racing game. JavaScript, Java, C++, Python, and Ruby are examples of object-oriented programming languages.
 
+#### Method
+
+A method is a function which is a property of an object. There are two kind of methods: Instance Methods which are built-in tasks performed by an object instance, or Static Methods which are tasks that can be performed without the need of an object instance.
+
+Note: In JavaScript functions themselves are objects, so, in that context, a method is actually an object reference to a function.
+
+
 #### Class
 
 In object-oriented programming, a class defines an object's characteristics. Class is a template definition of an object's properties and methods, the "blueprint" from which other more specific instances of the object are drawn.
