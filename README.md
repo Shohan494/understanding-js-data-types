@@ -6,9 +6,17 @@ OOP (Object-Oriented Programming) is an approach in programming in which data is
 
 JavaScript is heavily object-oriented. It follows a prototype-based model (as opposed to class-based).
 
-#### Object
+#### Object[1]
 
 Object refers to a data structure containing data and instructions for working with the data. Objects sometimes refer to real-world things, for example a car or map object in a racing game. JavaScript, Java, C++, Python, and Ruby are examples of object-oriented programming languages.
+
+#### Objects[2]
+
+In programming, an object is a structure of code that models a real life object. You can have a simple object that represents a car park and contains information about its width and length, or you could have an object that represents a person, and contains data about their name, height, weight, what language they speak, how to say hello to them, and more.
+```
+var dog = { name : 'Spot', breed : 'Dalmatian' };
+dog.name
+```
 
 #### Method
 
