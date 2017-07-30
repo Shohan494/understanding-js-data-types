@@ -30,4 +30,4 @@ Prototype-based programming is a style of object-oriented programming in which c
 
 #### API - Application Programming Interfaces
 
-APIs are ready-made sets of code building blocks that allow a developer to implement programs that would otherwise be hard or impossible to implement.
+APIs are ready-made sets of code building blocks that allow a developer to implement programs that would otherwise be hard or impossible to implement. They generally fall into two categories.
