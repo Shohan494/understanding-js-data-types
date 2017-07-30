@@ -27,3 +27,7 @@ A programming language is said to have First-class functions when functions in t
 #### Prototype-based programming
 
 Prototype-based programming is a style of object-oriented programming in which classes are not explicitly defined, but rather derived by adding properties and methods to an instance of another class or, less frequently, add them to an empty object.
+
+#### API - Application Programming Interfaces
+
+APIs are ready-made sets of code building blocks that allow a developer to implement programs that would otherwise be hard or impossible to implement.
